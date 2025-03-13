@@ -96,7 +96,11 @@ When a bug is found during manual testing, follow these steps:
 
 ## Create a Bug Issue in JIRA with detailed information:
 **Summary:** Provide a clear, concise bug title.
+
 **Description:** Include steps to reproduce, expected vs. actual results, and environment details.
+
 **Severity/Priority:** Define the bug’s impact and urgency.
+
 **Screenshots/Attachments:** Include relevant screenshots or logs to help developers.
+
 **Link Bug to Test Case:** Once the bug is created, ensure it is linked to the test case that failed.
